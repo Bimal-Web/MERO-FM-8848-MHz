@@ -12,3 +12,4 @@ Classical Songs – Soulful and traditional compositions that preserve heritage.
 
 🎯 Mission
 To preserve and promote Nepali musical heritage while making it accessible to everyone, everywhere.
+Developer with a deep appreciation for Nepali Lok Bhaka and Lok Dohori traditions.
